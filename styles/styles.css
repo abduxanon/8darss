@@ -1,0 +1,41 @@
+ 
+body {
+  font-family: "Raleway", sans-serif;
+}
+.ofshi {
+  width: 1600px;
+  height: 8597px;
+  top: 0px;
+  left: 0px;
+  background-color: rgb(198, 99, 99);
+}
+.header-container {
+  width: 1600px;
+  height: 760px;
+  top: 20px;
+  background-color: #ffffff;
+  border: 0px, 0px, 0px.0px;
+}
+.header-main {
+  width: 1200px;
+  height: 53px;
+  top: 20px;
+  left: 200px;
+  background-color: rgb(193, 161, 161);
+}
+.header-img {
+  width: 122px;
+  height: 53px;
+  top: 20px;
+  left: 200px;
+}
+.header-link1 {
+  width: 78px;
+  height: 160px;
+  top: 39px;
+  left: 45px;
+  margin-top: 1000px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+}
