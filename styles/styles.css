@@ -257,12 +257,5 @@
   text-align: left;
 }
 .header-text0{
-    /* Слайдер */
-position: absolute;
-width: 1200px;
-height: 57px;
-left: 200px;
-right: 200px;
-top: 678px;
-bottom: -48px;
+    
 }
