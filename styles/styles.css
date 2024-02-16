@@ -274,18 +274,26 @@
   height: 57px;
   left: 200px;
   right: 200px;
-  top: 678px;
+  top: 698px;
   bottom: -48px;
 }
 .str1{
    Arrow 4
   position: absolute;
-  width: 30px;
-  height: 200;
-  left: 320px;
-  top: 99px;
-  /* transform: rotate(-180.00deg); */
- left: 100px;
+  width: 40px;
+  height: 30px;
 box-sizing: border-box;
+border: 2px solid rgb(255, 255, 255);
+}
+.str2{
+    Arrow 3 */
+ position: absolute;
+width: 40px;
+height: 30;
+left: 245px;
+top: 719px;
+
+box-sizing: border-box;
+/* Білий */
 border: 2px solid rgb(255, 255, 255);
 }
