@@ -609,3 +609,14 @@ right: 1359px;
 top: 407px;
 bottom: 3325.98px;
 }
+.hd{
+  /* Про Рінго */
+position: absolute;
+width: 1360px;
+height: 439px;
+left: 1150px;
+right: 120px;
+top: 2444px;
+bottom: 5714px;
+background-color: rgba(0, 255, 255, 0.208);
+}
