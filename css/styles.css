@@ -4,7 +4,7 @@
   width: 1600px;
   height: 8597px;
   /* Білий (фон) */
-  background: rgb(251, 240, 240);
+  background: #fff;
 }
 .header-1qism {
   /* Перший екран */
@@ -289,11 +289,231 @@ border: 2px solid rgb(255, 255, 255);
     Arrow 3 */
  position: absolute;
 width: 40px;
-height: 30;
-left: 245px;
-top: 719px;
-
+height: 30px;
+left: 2450px;
+top: 79px;
+gap: 100px;
 box-sizing: border-box;
 /* Білий */
 border: 2px solid rgb(255, 255, 255);
+}
+.qism{
+  /* Основні напрямки */
+position: absolute;
+width: 1200px;
+height: 596px;
+left: 200px;
+right: 200px;
+top: 920px;
+bottom: 7081px;
+background-color:  #fff;
+}
+.h2text{
+  /* Основні напрямки */
+position: absolute;
+width: 488px;
+height: 58px;
+left: 356px;
+right: 156px;
+top: 0px;
+bottom: -382px;
+/* заголовок_H2 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 46px;
+font-weight: 600;
+line-height: 125%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+.qism2{
+/* 01 */
+position: absolute;
+width: 384px;
+height: 458px;
+left: 200px;
+right: 616px;
+top: 1058px;
+bottom: -920px;
+}
+.o1{
+ /* 01 */
+position: absolute;
+width: 27px;
+height: 24px;
+left: -120px;
+right: 127px;
+top: -808px;
+bottom: -624px;
+/* Чорний */
+opacity: 0.5;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+ 
+
+}
+.rc{
+position: absolute;
+width: 458px;
+height: 1px;
+left: -200.5px;
+top: 458px;
+transform: rotate(90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2; 
+
+}
+.qism3{
+  /* Дизайн інтерєру */
+position: absolute;
+width: 196px;
+height: 24px;
+left: -130px;
+right: -42px;
+top: -742px;
+bottom: -708px;
+/* Заголовок_H5 */
+color: rgb(61, 74, 57);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.uy{
+  /* Rectangle 3 */
+position: absolute;
+width: 354px;
+height: 320px;
+left: -130px;
+right: -200px;
+top: -696px;
+bottom: -1058px;
+}
+.rs{
+  position: absolute;
+width: 458px;
+height: 1px;
+left: 230.5px;
+top: 458px;
+transform: rotate(90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2; 
+}
+.o2{
+ /* 01 */
+position: absolute;
+width: 27px;
+height: 24px;
+left: 300px;
+right: 127px;
+top: -808px;
+bottom: -624px;
+/* Чорний */
+opacity: 0.5;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.qism4{
+  /* Дизайн інтерєру */
+position: absolute;
+width: 196px;
+height: 24px;
+left: 290px;
+right: -42px;
+top: -759px;
+bottom: -708px;
+/* Заголовок_H5 */
+color: rgb(61, 74, 57);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.uy2{
+  /* Rectangle 3 */
+position: absolute;
+width: 354px;
+height: 320px;
+left: 290px;
+right: -200px;
+top: -696px;
+bottom: -1058px;
+}
+.rp{
+  position: absolute;
+width: 458px;
+height: 1px;
+left: 650.5px;
+top: 458px;
+transform: rotate(90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2; 
+}
+.o3{
+ /* 01 */
+position: absolute;
+width: 27px;
+height: 24px;
+left: 720px;
+right: 127px;
+top: -808px;
+bottom: -624px;
+/* Чорний */
+opacity: 0.5;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.qism5{
+  /* Дизайн інтерєру */
+position: absolute;
+width: 196px;
+height: 24px;
+left: 710px;
+right: -42px;
+top: -763px;
+bottom: -708px;
+/* Заголовок_H5 */
+color: rgb(61, 74, 57);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.uy3{
+  /* Rectangle 3 */
+position: absolute;
+width: 354px;
+height: 320px;
+left: 710px;
+right: -200px;
+top: -696px;
+bottom: -1058px;
 }
