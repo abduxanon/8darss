@@ -620,3 +620,15 @@ top: 2444px;
 bottom: 5714px;
 background-color: rgba(0, 255, 255, 0.208);
 }
+.oshxona{
+  /* Rectangle 14 */
+position: absolute;
+width: 160px;
+height: 200px;
+left: 120px;
+right: 1080px;
+top: 444px;
+bottom: -2205px;
+/* Тінь_2 */
+/* box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.05); */
+}
