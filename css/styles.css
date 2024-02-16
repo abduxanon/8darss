@@ -517,3 +517,95 @@ right: -200px;
 top: -696px;
 bottom: -1058px;
 }
+
+.desc{
+  /* Rectangle 13 */
+position: absolute;
+width: 1600px;
+height: 688px;
+left: 1030px;
+right: 0;
+top: 1656px;
+bottom: -1656px;
+/* Зелений */
+background: rgba(61, 74, 57, 0.45);
+}
+.desc-text{
+  /* Ми забезпечемо вас */
+position: absolute;
+width: 526px;
+height: 58px;
+left: 537px;
+right: 537px;
+top: 56px;
+bottom: -1126px;
+/* заголовок_H2 */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 46px;
+font-weight: 600;
+line-height: 125%;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.mebel{
+/* Меблями */
+position: absolute;
+width: 108px;
+height: 126.98px;
+left: 423px;
+right: 1159px;
+top: 217px;
+bottom: 3325.98px;
+}
+.mebel1{
+/* Меблями */
+position: absolute;
+width: 108px;
+height: 226.98px;
+left: 753px;
+right: 159px;
+top: 161px;
+bottom: 3325.98px;
+}
+.mebel2{
+/* Меблями */
+position: absolute;
+width: 208px;
+height: 126.98px;
+left: 1053px;
+right: 1159px;
+top: 207px;
+bottom: 3325.98px;
+}
+.mebel3{
+/* Меблями */
+position: absolute;
+width: 208px;
+height: 126.98px;
+left: 365px;
+right: 1159px;
+top: 407px;
+bottom: 3325.98px;
+}
+.mebel4{
+/* Меблями */
+position: absolute;
+width: 208px;
+height: 126.98px;
+left: 705px;
+right: 1159px;
+top: 407px;
+bottom: 3325.98px;
+}
+.mebel5{
+/* Меблями */
+position: absolute;
+width: 208px;
+height: 126.98px;
+left: 1050px;
+right: 1359px;
+top: 407px;
+bottom: 3325.98px;
+}
