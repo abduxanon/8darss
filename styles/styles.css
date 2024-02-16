@@ -1,41 +1,268 @@
- 
-body {
-  font-family: "Raleway", sans-serif;
-}
-.ofshi {
+.header-container {
+  /* Макет */
+  position: relative;
   width: 1600px;
   height: 8597px;
-  top: 0px;
-  left: 0px;
-  background-color: rgb(198, 99, 99);
+  /* Білий (фон) */
+  background: rgb(251, 240, 240);
 }
-.header-container {
+.header-1qism {
+  /* Перший екран */
+  position: absolute;
   width: 1600px;
   height: 760px;
+  left: 0;
+  right: 0;
   top: 20px;
-  background-color: #ffffff;
-  border: 0px, 0px, 0px.0px;
+  bottom: 7817px;
+  background-color: rgb(208, 236, 236);
 }
-.header-main {
+.header-link {
+  /* Шапка */
+  position: absolute;
   width: 1200px;
   height: 53px;
-  top: 20px;
   left: 200px;
-  background-color: rgb(193, 161, 161);
+  right: 200px;
+  top: 20px;
+  bottom: 687px;
 }
 .header-img {
+  position: relative;
   width: 122px;
   height: 53px;
-  top: 20px;
-  left: 200px;
 }
-.header-link1 {
+.imglogo1 {
+  /* Напрямки */
+  position: absolute;
   width: 78px;
-  height: 160px;
-  top: 39px;
-  left: 45px;
-  margin-top: 1000px;
-  font-weight: 500;
+  height: 16px;
+  left: 365px;
+  right: 657px;
+  top: 19px;
+  bottom: -2px;
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
   font-size: 16px;
-  line-height: 16px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.imglogo2 {
+  /* Про компанію */
+  position: absolute;
+  width: 108px;
+  height: 16px;
+  left: 483px;
+  right: 509px;
+  top: 19px;
+  bottom: -2px;
+  /* Пункти меню_16 px (medium) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.imglogo3 {
+  /* Переваги */
+  position: absolute;
+  width: 75px;
+  height: 16px;
+  left: 631px;
+  right: 394px;
+  top: 19px;
+  bottom: -2px;
+  /* Пункти меню_16 px (medium) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.imglogo4 {
+  /* Етапи роботи */
+  position: absolute;
+  width: 106px;
+  height: 16px;
+  left: 746px;
+  right: 248px;
+  top: 19px;
+  bottom: -2px;
+  /* Пункти меню_16 px (medium) */
+  color: rgb(40, 43, 34);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.svg1 {
+  /* Ми в соцмережах: */
+  position: absolute;
+  width: 49px;
+  height: 24px;
+  left: 1098px;
+  right: 53px;
+  top: 35px;
+  bottom: -6px;
+}
+.svg2 {
+  /* Vector */
+  position: absolute;
+  width: 18.01px;
+  height: 18.04px;
+  left: 12.5%;
+  right: 12.46%;
+  top: 12.42%;
+  bottom: 12.42%;
+}
+.svg3 {
+  /* Vector */
+  position: absolute;
+  width: 18.01px;
+  height: 18.04px;
+  left: 52.5%;
+  right: 12.46%;
+  top: 12.42%;
+  bottom: 12.42%;
+}
+.header-contakt {
+  /* +380 67661 5415 */
+  position: absolute;
+  width: 190px;
+  height: 22px;
+  left: 1210px;
+  right: -200px;
+  top: 36px;
+  bottom: -5px;
+}
+.kontakt {
+  /* phone (1) 1 */
+  position: relative;
+  width: 22px;
+  height: 22px;
+}
+.kontakt2 {
+  /* +380 67661 5415 */
+  position: absolute;
+  width: 161px;
+  height: 20px;
+  left: 19px;
+  right: -1210px;
+  top: 1px;
+  bottom: -35px;
+  /* Text_20px (semibold) */
+  color: rgb(61, 74, 57);
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+  text-transform: uppercase;
+}
+.tv {
+  /* tv-cabinet-modern-living-room-with-armchair-plant-dark-marble-wall-3d-rendering 1 */
+  position: absolute;
+  width: 1600px;
+  height: 687px;
+  left: 0;
+  right: 0;
+  top: 93px;
+  bottom: -93px;
+}
+.text1 {
+  /* виробництвомеблів */
+  position: absolute;
+  width: 446px;
+  height: 134px;
+  left: 577px;
+  right: 577px;
+  top: 213px;
+  bottom: 340px;
+  /* Заголовок_H1 */
+  color: rgb(255, 255, 255);
+  font-family: Lato;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.text2 {
+  position: absolute;
+  width: 537px;
+  height: 81px;
+  left: 531px;
+  right: 532px;
+  top: 397px;
+  bottom: 239px;
+  opacity: 0.8;
+  color: rgb(255, 255, 255);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.btn {
+  /* Кнопка */
+  position: relative;
+  width: 260px;
+  height: 60px;
+  left: 600px;
+  top: 560px;
+  /* Автолейаут */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 22px 56px 22px 56px;
+  box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+  background: rgb(174, 123, 60);
+}
+.btn-text {
+  /* Обговорити проект */
+  position: static;
+  width: 155px;
+  height: 16px;
+  /* Автолейаут */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  /* padding: 22px 55px 22px 55px; */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+  /* text_botton */
+  color: rgb(255, 255, 255);
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.header-text0{
+    /* Слайдер */
+position: absolute;
+width: 1200px;
+height: 57px;
+left: 200px;
+right: 200px;
+top: 678px;
+bottom: -48px;
 }
