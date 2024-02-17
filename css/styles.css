@@ -302,7 +302,7 @@ border: 2px solid rgb(255, 255, 255);
 position: absolute;
 width: 1200px;
 height: 596px;
-left: 200px;
+left: 100px;
 right: 200px;
 top: 920px;
 bottom: 7081px;
@@ -523,7 +523,7 @@ bottom: -1058px;
 position: absolute;
 width: 1600px;
 height: 688px;
-left: 1030px;
+left: 1550px;
 right: 0;
 top: 1656px;
 bottom: -1656px;
@@ -609,27 +609,283 @@ right: 1359px;
 top: 407px;
 bottom: 3325.98px;
 }
-.hd{
-  /* Про Рінго */
+
+
+.hed{
+/* Про Рінго */
 position: absolute;
 width: 1360px;
 height: 439px;
-left: 1150px;
+left: 1660px;
 right: 120px;
 top: 2444px;
 bottom: 5714px;
-background-color: rgba(0, 255, 255, 0.208);
+
 }
 .oshxona{
   /* Rectangle 14 */
 position: absolute;
+width: 200px;
+height: 260px;
+left: -20px;
+right: 1080px;
+top: -7px;
+bottom: -2205px;
+}
+.text12{
+position: absolute;
+width: 814px;
+height: 141px;
+left: 307px;
+right: 159px;
+top: 84px;
+bottom: -2186px;
+/* Заголовок_H3 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 36px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+}
+.rectangle2{
+  /* Line 8 */
+position: absolute;
+width: 926px;
+height: 0;
+left: 1863px;
+top: 2705.5px;-
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.yu{
+  /* 1 */
+position: absolute;
+width: 403px;
+height: 108px;
+left: 207px;
+top: 300px;
+}
+.rectangle3{
+  /* Line 10 */
+position: absolute;
+width: 177px;
+height: 0;
+left: 2199.5px;
+top: 2793px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 2px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.yu2{
+
+position: absolute;
+width: 403px;
+height: 108px;
+left: 660px;
+top: 300px;
+}
+.rectangle4{
+  /* Line 9 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 2883.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+}
+.uyichi{
+  /* Rectangle 15 */
+position: absolute;
 width: 160px;
 height: 200px;
-left: 120px;
-right: 1080px;
-top: -1444px;
-bottom: -2205px;
-padding: ;
+left: 1190px;
+right: -120px;
+top: 190px;
+bottom: -2348px;
 /* Тінь_2 */
-/* box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.05); */
+
+}
+.ok{
+  /* Наші переваги */
+position: absolute;
+width: 1200px;
+height: 1052px;
+left: 1700px;
+right: 200px;
+top: 3023px;
+bottom: 4522px;
+background-color: rgba(255, 228, 196, 0.24);
+}
+.hteg1{
+  /* Наші переваги */
+position: absolute;
+width: 373px;
+height: 58px;
+left: 444px;
+right: 213px;
+top: 23px;
+bottom: -2029px;
+/* заголовок_H2 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 46px;
+font-weight: 600;
+line-height: 125%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+.rectangle11{
+  /* Line 10 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 3231.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ok-1{
+  /* 01 */
+position: absolute;
+width: 27px;
+height: 24px;
+left: 10px;
+top:311px;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.rectangle12{
+  /* Line 9 */
+position: absolute;
+width: 124px;
+height: 0;
+left: 2239.5px;
+top: 3335px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ok-2{
+  /* Мобільність */
+position: absolute;
+width: 187px;
+height: 42px;
+left: 840px;
+right: 173px;
+top: 271px;
+bottom: -3079px;
+/* Заголовок_H4 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 32px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ok-3{
+/* Проводимо зустрічі на об`єктах в затишних закладах Києва */
+position: absolute;
+width: 453px;
+height: 22px;
+left: 740px;
+right: -93px;
+top: 323px;
+bottom: -3111px;
+/* text_16px (regular) */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+line-height: 135%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ok-4{
+  /* 02 */
+position: absolute;
+width: 38px;
+height: 34px;
+left: 10px;
+right: 972px;
+top: 395px;
+bottom: -3263px;
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 30px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.rectangle13{
+  /* Line 9 */
+position: absolute;
+width: 1200px;
+height: 10;
+left: 1700px;
+top: 3395.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ok-5{
+  /* Надійність */
+position: absolute;
+width: 166px;
+height: 42px;
+left: 840px;
+right: 194px;
+top: 425px;
+bottom: -3281px;
+/* Заголовок_H4 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 32px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ok-6{
+  /* Система нашої роботи зосереджена на якості та термінах завершення проекту */
+position: absolute;
+width: 471px;
+height: 44px;
+left: 700px;
+right: -111px;
+top: 487px;
+bottom: -3335px;
+/* text_16px (regular) */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+line-height: 135%;
+letter-spacing: 0%;
+text-align: left;
 }
