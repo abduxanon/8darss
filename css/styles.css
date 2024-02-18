@@ -724,7 +724,6 @@ left: 1700px;
 right: 200px;
 top: 3023px;
 bottom: 4522px;
-background-color: rgba(255, 228, 196, 0.24);
 }
 .hteg1{
   /* Наші переваги */
@@ -888,4 +887,470 @@ font-weight: 400;
 line-height: 135%;
 letter-spacing: 0%;
 text-align: left;
+}
+.rectangle14{
+  /* Line 10 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 3591.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.rectangle15{
+  /* Line 11 */
+position: absolute;
+width: 146px;
+height: 0;
+left: 2229.5px;
+top: 3514px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ok-7{
+  /* Rectangle 16 */
+position: absolute;
+width: 380px;
+height: 260px;
+left: 104px;
+right: 696px;
+top: 543px;
+bottom: -2681px;
+/* Тінь_2 */
+/* box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.05); */
+
+}
+.ko1{
+  /* Якість */
+position: absolute;
+width: 97px;
+height: 42px;
+left: 840px;
+right: 263px;
+top: 621px;
+bottom: -3499px;
+/* Заголовок_H4 */
+color: rgb(174, 123, 60);
+font-family: Raleway;
+font-size: 32px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko2{
+  /* Виготовляємо виключно з перевірених європейських брендів */
+position: absolute;
+width: 475px;
+height: 22px;
+left: 680px;
+right: -115px;
+top: 678px;
+bottom: -3531px;
+/* text_16px (regular) */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+line-height: 135%;
+letter-spacing: 0%;
+text-align: left;
+/* Чорний */
+opacity: 0.8;
+
+}
+.rectangle16{
+  /* Line 11 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 3775.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.rectangle17{
+  /* Line 12 */
+position: absolute;
+width: 124px;
+height: 0;
+left: 2239.5px;
+top: 3710px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ko3{
+/* 03 */
+position: absolute;
+width: 28px;
+height: 24px;
+left: 10px;
+right: 972px;
+top: 591px;
+bottom: -3481px;
+/* Заголовок_H5 */
+color: rgb(174, 123, 60);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko4{
+/* Професіоналізм */
+position: absolute;
+width: 252px;
+height: 42px;
+left: 760px;
+right: 108px;
+top: 795px;
+bottom: -3673px;
+/* Заголовок_H4 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 32px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko5{
+  /* Наша команда - це клуб професіоналів, об`єднаних в одній компанії */
+position: absolute;
+width: 517px;
+height: 22px;
+left: 670px;
+right: -157px;
+top: 857px;
+bottom: -3705px;
+/* text_16px (regular) */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+line-height: 135%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko6{
+/* 04 */
+position: absolute;
+width: 29px;
+height: 24px;
+left: 10px;
+right: 971px;
+top: 795px;
+bottom: -3655px;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.rectangle18{
+  /* Line 12 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 3950.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.rectangle19{
+  /* Line 13 */
+position: absolute;
+width: 124px;
+height: 0;
+left: 2239.5px;
+top: 3889px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+.ko7{
+  /* 05 */
+position: absolute;
+width: 28px;
+height: 24px;
+left: 10px;
+right: 972px;
+top: 969px;
+bottom: -3807px;
+/* Заголовок_H5 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 24px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko8{
+  /* Вигідність */
+position: absolute;
+width: 159px;
+height: 42px;
+left: 810px;
+right: 201px;
+top: 959px;
+bottom: -3825px;
+/* Заголовок_H4 */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 32px;
+font-weight: 600;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+.ko9{
+  /* Ми відмовились від шоу-руму та офісу на користь вартості та мобільності */
+position: absolute;
+width: 424px;
+height: 44px;
+left: 700px;
+right: -64px;
+top: 1021px;
+bottom: -3879px;
+/* text_16px (regular) */
+color: rgb(40, 43, 34);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 400;
+line-height: 135%;
+letter-spacing: 0%;
+text-align: left;
+}
+.rectangle20{
+  /* Line 13 */
+position: absolute;
+width: 1200px;
+height: 0;
+left: 1700px;
+top: 4135.5px;
+transform: rotate(180.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+}
+.rectangle21{
+  /* Line 14 */
+position: absolute;
+width: 146px;
+height: 0;
+left: 2229.5px;
+top: 4065px;
+transform: rotate(-90.00deg);
+/* Чорний */
+border: 1px solid rgb(40, 43, 34);
+opacity: 0.2;
+
+}
+
+
+
+.imy{
+  /* Rectangle 17 */
+position: absolute;
+width: 800px;
+height: 796px;
+left: 1500px;
+right: 800px;
+top: 4215px;
+bottom: -4215px;
+/* Зелений */
+background: rgb(61, 74, 57);
+}
+.imy1{
+  /* Обговоримо ваш проект? */
+position: absolute;
+width: 413px;
+height: 116px;
+left: 230px;
+right: 987px;
+top: 135px;
+bottom: -3735px;
+/* заголовок_H2 */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 46px;
+font-weight: 600;
+line-height: 125%;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.imy2{
+  /* Заповніть форму і найближчим часом ми зв'яжемося з вами! */
+position: absolute;
+width: 306px;
+height: 46px;
+left: 240px;
+right: 1094px;
+top: 281px;
+bottom: -3801px;
+/* text_16px (medium) */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 500;
+line-height: 145%;
+letter-spacing: 0%;
+text-align: left;
+}
+.imy3{
+  /* Ім'я */
+position: absolute;
+width: 27px;
+height: 23px;
+left: 240px;
+right: 73px;
+top: 377px;
+bottom: -4527px;
+/* text_16px (medium) */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 500;
+line-height: 145%;
+letter-spacing: 0%;
+text-align: left;
+}
+.er{
+  /* Line 14 */
+position: absolute;
+width: 300px;
+height: 0;
+left: 1735px;
+top: 4629px;
+/* Білий */
+border: 2px solid rgb(203, 194, 194);
+opacity: 0.2;
+
+}
+.imy4{
+  /* Номер телефону */
+position: absolute;
+width: 131px;
+height: 23px;
+left: 240px;
+right: -31px;
+top: 465px;
+bottom: -4585px;
+/* text_16px (medium) */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 500;
+line-height: 145%;
+letter-spacing: 0%;
+text-align: left;
+}
+.er1{
+    /* Line 14 */
+position: absolute;
+width: 300px;
+height: 0;
+left: 1735px;
+top: 4709px;
+/* Білий */
+border: 2px solid rgb(203, 194, 194);
+opacity: 0.2;
+}
+.imy5{
+  /* Прикріпити проект */
+position: absolute;
+width: 157px;
+height: 18px;
+left: 230px;
+right: 1243px;
+top: 530px;
+bottom: -3975px;
+opacity: 0.5;
+}
+.imy7{
+/* Кнопка */
+position: relative;
+width: 300px;
+height: 60px;
+top: 600px;
+left: 220px;
+/* Автолейаут */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 22px 56px 22px 56px;
+box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+/* Коричневий */
+background: rgb(174, 123, 60);
+}
+.imy8{
+ /* Відправити */
+position: static;
+width: 91px;
+height: 16px;
+/* Автолейаут */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 1px 56px 22px 56px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+/* text_botton */
+color: rgb(255, 255, 255);
+font-family: Raleway;
+font-size: 16px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.imy9{
+/* Даю згоду на оброблення персональних даних */
+position: absolute;
+width: 298px;
+height: 15px;
+left: 200px;
+top: 706px;
+ 
+}
+.imy10{
+  /* Rectangle 6 */
+position: absolute;
+width: 800px;
+height: 796px;
+left: 2300px;
+right: 0;
+top: 4215px;
+bottom: -4215px;
 }
